@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "company": "dell",
+        "Ram": "8 RAM",
+        "Image": "https://m.media-amazon.com/images/I/31eHrGoFNRL._SX300_SY300_QL70_FMwebp_.jpg",
+        "SSd": "512 SSD",
+        "Processer":"Core i3"
+    },
+    {
+        "id": 2,
+        "company": "macbook",
+        "Ram": "16 RAM",
+        "Image": "https://images.pexels.com/photos/205421/pexels-photo-205421.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "SSd": "512 SSD",
+        "Processer":"CPU2"
+
+    },
+    {
+        "id": 3,
+        "company": "Asus",
+        "Ram": "1TB RAM",
+        "Image": "https://m.media-amazon.com/images/I/41rJ+ha25XL._SY300_SX300_.jpg",
+        "SSd": "512 SSD",
+        "Processer":"Core i7"
+
+    },
+    {
+        "id": 4,
+        "company": "Lenovo",
+        "Ram": "8 RAM",
+        "Image": "https://m.media-amazon.com/images/I/31uLEZHhMDL._SX300_SY300_QL70_FMwebp_.jpg",
+        "SSd": "512 SSD",
+        "Processer":"Core i3"
+
+    },
+    {
+        "id": 5,
+        "company": "dell",
+        "Ram": "8 RAM",
+        "Image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-3420/media-gallery/peripherals_laptop_latitude_3420nt_gallery_1.psd?fmt=pjpg&pscan=auto&scl=1&wid=3319&hei=2405&qlt=100,1&resMode=sharp2&size=3319,2405&chrss=full&imwidth=5000",
+        "SSd": "512 SSD",
+        "Processer":"Core i7"
+    },
+    {
+        "id": 6,
+        "company": "dell",
+        "Ram": "8 RAM",
+        "Image": "https://www.shutterstock.com/image-photo/bangkokthailand-march-142016-dell-logo-260nw-391104334.jpg",
+        "SSd": "512 SSD",
+        "Processer":"Core i5"
+
+    },
+    {
+        "id": 7,
+        "company": "Hp",
+        "Ram": "16 RAM",
+        "Image": "https://cdn1.smartprix.com/rx-iHoNkjCP7-w1200-h1200/HoNkjCP7.jpg",
+        "SSd": "512 SSD",
+        "Processer":"Core i9"
+
+    },
+    {
+        "id": 8,
+        "company": "dell",
+        "Ram": "8 RAM",
+        "Image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/latitude-14-3440-laptop/media-gallery/notebook-latitude-14-3440-nt-uma-gray-gallery-1.psd?fmt=pjpg&pscan=auto&scl=1&wid=3300&hei=1999&qlt=100,1&resMode=sharp2&size=3300,1999&chrss=full&imwidth=5000",
+        "SSd": "512 SSD",
+        "Processer":"Core i3"
+
+    },
+    {
+        "id": 9,
+        "company": "dell",
+        "Ram": "8 RAM",
+        "Image": "https://cymcomputer.com/wp-content/uploads/2023/12/5400.jpg",
+        "SSd": "512 SSD",
+        "Processer":"Core i3"
+
+    },
+    {
+        "id": 10,
+        "company": "dell",
+        "Ram": "16 RAM",
+        "Image": "https://images-cdn.ubuy.co.in/6486c1791a4c890f9a6db6b5-dell-latitude-5400-business-laptop-14.jpg",
+        "SSd": "512 SSD",
+        "Processer":"Core i3"
+
+    }
+]
