@@ -1,8 +1,11 @@
 for Backend 
+
   # npm i express
+
 "node index.js" by this cmd run the server
 
 for frontend
+
   #npm i init -y
   #npm i react
   #npm i react-dom
@@ -14,6 +17,6 @@ for frontend
     "start": "parcel index.html",
   },
 
-  after run this cmd :"npm start"
+  after run this cmd : "npm start"
 
-  ***other option don't write anything in "package.json" file simply go cmd and write:"npx parcel index.html"**
+  ***other options don't write anything in the "package.json" file simply go cmd and write:"npx parcel index.html"**
